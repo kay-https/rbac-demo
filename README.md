@@ -32,3 +32,32 @@ A ideia é implementar um **controle de acesso por roles (RBAC)** do zero usando
 
 O cliente envia no header:
 
+
+O sistema busca o usuário no banco e valida se ele possui a role exigida pela rota.
+
+---
+
+## 🧪 Testes rápidos
+
+### Rota pública
+
+
+### USER
+
+
+### ADMIN
+
+
+---
+
+## ✨ Objetivo
+
+Treinar arquitetura backend, interceptors, annotations customizadas e conceitos reais de autorização antes de usar frameworks prontos como Spring Security.
+
+---
+
+## 🖤 Autora
+
+Kayllanne Farias  
+#30DaysOfJavaWithKay
+
